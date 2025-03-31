@@ -1,12 +1,4 @@
 # rokeystudy
 
-dasdasd
-
-dasda
-
-ds
-
-das
-da
-s
+로키 코드공부 
 
